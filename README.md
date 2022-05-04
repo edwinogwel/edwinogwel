@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-<!--
-**edwinogwel/edwinogwel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <!--  ALTERNATIVE
+  <img src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47yabcda6d4cg0wq5eq4y8tb5uqvsrmppy20g9g2hq&amp;rid=giphy.gif&amp;ct=g"                    style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
+  -->
+  <img src="https://c.tenor.com/-SV9TjUGabMAAAAM/hacker-python.gif" width="833" height="auto" style="max-width: 833px;">
+</div>
+</br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinogwel&langs_count=8&theme=vision-friendly-dark&layout=compact" height="180px"/>
+  </a>
+</div>
