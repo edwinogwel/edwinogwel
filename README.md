@@ -3,10 +3,7 @@
 </h1>
 
 <div align="center">
-  <!--  ALTERNATIVE
   <img src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47yabcda6d4cg0wq5eq4y8tb5uqvsrmppy20g9g2hq&amp;rid=giphy.gif&amp;ct=g"                    style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
-  -->
-  <img src="https://c.tenor.com/-SV9TjUGabMAAAAM/hacker-python.gif" width="833" height="auto" style="max-width: 833px;">
 </div>
 </br>
 
